@@ -1,0 +1,12 @@
+```
+[SwitchyOmega Conditions]
+@with result
+*.google.com +daim_vpn
+*.facebook.com +daim_vpn
+*.youtube.com +daim_vpn
+
+* +daim
+
+```
+
+
